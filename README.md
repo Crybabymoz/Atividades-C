@@ -1,4 +1,4 @@
-# C - tutorial
+# C
 Atividades feitas em linguagem C, algumas simples, outras nem tanto...
 
 - atividades que correspondem a exercicios de lógica simples e de expressão. 
